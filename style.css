@@ -1,20 +1,20 @@
 a.navbar-brand{
-  margin-left: 10px;
-  padding: 10px;
-  background-color: rgb(44, 46, 46);
+  margin-left: 15px;
+  padding: 15px;
+  background-color: rgb(40, 43, 43);
   font-family: 'Times New Roman', Times, serif;
-  font-size: 25px;
+  font-size: 26px;
 }
 
 
 h3{
-  color: lightskyblue;
+  color: blue;
   padding: 10px;
 }
 
 .img-thumbnail{
-  padding:5px;
-  margin:5px;
+  padding:8px;
+  margin:8px;
   border: solid black;
 }
 
@@ -29,12 +29,12 @@ p{
 
 
 body{
-  background-color: rgb(44, 46, 46);
+  background-color: rgb(40, 43, 43);
 }
 .col-md-12{
-  background-color: gray;
-  padding-top: 20px;
-  padding-bottom:40px;
+  background-color: grey;
+  padding-top: 30px;
+  padding-bottom:30px;
 }
 
 
@@ -43,8 +43,8 @@ body{
 }
 
 .navbar{
-  padding-top:0px;
-  padding-bottom: 0px;
+  padding-top:5px;
+  padding-bottom: 5px;
   padding-right:40px;
   background-color:rgb(44, 46, 46);
 }
